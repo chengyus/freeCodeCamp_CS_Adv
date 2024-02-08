@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ssYrCnXWVX/Xo705SQumic9YRvBXfBIWufq1VSIc2SI=",
+  "Source": "TestTimeConsumingOperationWebAPI",
+  "BasePath": "_content/TestTimeConsumingOperationWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

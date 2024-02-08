@@ -1,0 +1,14 @@
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.AssemblyInfoInputs.cache
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.AssemblyInfo.cs
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.csproj.CoreCompileInputs.cache
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.exe
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.deps.json
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.runtimeconfig.json
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\bin\Debug\net8.0\ThermostatEventsApp.pdb
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\refint\ThermostatEventsApp.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.pdb
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ThermostatEventsApp.genruntimeconfig.cache
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\ThermostatEventsApp\obj\Debug\net8.0\ref\ThermostatEventsApp.dll

@@ -1,0 +1,2 @@
+Object Type: CovarianceAndContravarianceDelegateExample.ICECar
+Car Details: 1 - Audi R8  - Internal Combustion Engine

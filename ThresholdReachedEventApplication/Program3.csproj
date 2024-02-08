@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program1\**" />
+    <Compile Remove="Program2\**" />
+    <EmbeddedResource Remove="Program1\**" />
+    <EmbeddedResource Remove="Program2\**" />
+    <None Remove="Program1\**" />
+    <None Remove="Program2\**" />
+  </ItemGroup>
+
+</Project>

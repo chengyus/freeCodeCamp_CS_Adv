@@ -1,0 +1,11 @@
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\bin\Debug\net8.0\HRAdministraionAPI.deps.json
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\bin\Debug\net8.0\HRAdministraionAPI.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\bin\Debug\net8.0\HRAdministraionAPI.pdb
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.AssemblyInfoInputs.cache
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.AssemblyInfo.cs
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.csproj.CoreCompileInputs.cache
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\refint\HRAdministraionAPI.dll
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\HRAdministraionAPI.pdb
+C:\Users\jsung\Documents\freeCodeCamp_C#_Adv\SchoolHRAdministration\HRAdministraionAPI\obj\Debug\net8.0\ref\HRAdministraionAPI.dll
